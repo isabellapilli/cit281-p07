@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/isabellapilli/cit281-p07/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## PROJECT 7
 
 ```markdown
-Syntax highlighted code block
+Learning Objectives:
 
-# Header 1
-## Header 2
-### Header 3
+1. Gain more experience working with GitHub repos
+2. Gain experience working with GitHub Pages
+3. Create an CIT Minor portfolio for labs/projects
 
-- Bulleted
-- List
+Overview: 
 
-1. Numbered
-2. List
+Rather than a final coding project, this project 
+consists of creating an initial version of your 
+CIT Minor portfolio using GitHub Pages. 
+This project includes:
 
-**Bold** and _Italic_ and `Code` text
+1. Creating either an organization-level or user-level 
+   GitHub Page, and adding content to this Page. This 
+   Page will be the entry web page for your portfolio.
+2. Creating repos for each of the labs and projects 
+   for the CIT 281 class
+3. Creating a GitHub Page for each of the labs and 
+   projects that provides a brief description of the 
+   lab or project, and a screen capture
+4. Adding links to the organization or user Page to 
+   each of the labs and projects
 
-[Link](url) and ![Image](src)
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### Technologies Used:
+- Terminal
+- GitHub
+- Chrome
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/isabellapilli/cit281-p07/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### What I Learned:
+In this project, I was able to make a few different GitHub repositories and experiment with GitHub pages. I created a main GitHub Page for my CIT Minor and a total of 16 other repositories for my 9 labs and 7 projects. I also added each project and lab code to its respective page. 
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
